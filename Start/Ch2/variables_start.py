@@ -24,9 +24,10 @@ myAnotherStr= "this is another string"
 print(mystr +" "+ myAnotherStr)
 print("Taylor Swift \n"*13)
 # Logical and comparison operators 
-print(myint == 10)
-print(myfloat < 15)
-print(myint > 8)
-print(myfloat <= 1)
+print(myfloat ==5)
+print(myint >= 10)
+print(myint !=20)
 
 # re-declaring a variable works
+print(myint > 5 and myfloat < 25.0)
+print(myint < 5 or myfloat < 25.0)

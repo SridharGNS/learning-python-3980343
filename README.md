@@ -21,4 +21,3 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [lil-course-url]: https://www.linkedin.com/learning/learning-python-25309312
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQECotgjIKCbrw/learning-public-crop_675_1200/B4EZT7PgtEGwAc-/0/1739381935225?e=2147483647&v=beta&t=zavFdzEcNtb5C3H8Q58J2_FVW9eqwIM5x_aSr1xHRzQ
-
